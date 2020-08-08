@@ -15,7 +15,6 @@ This repository contains all of the source code used in the course called HTML, 
 
 
 # Outputs :
-https
 * [Module-2](https://mahdood.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/Assignments/module_2_solution/index.html)
 * [Module-3](https://mahdood.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/Assignments/module_3_solution/index.html)
 * [Module-4](https://mahdood.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/Assignments/module_4_solution/index.html)
