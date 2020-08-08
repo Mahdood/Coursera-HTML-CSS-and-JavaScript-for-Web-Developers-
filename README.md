@@ -2,7 +2,7 @@
 
 This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.
 
-![Course Completion certificate](https://github.com/siddartha/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/blob/master/Certificate.PNG)
+![Course Completion certificate](https://github.com/Mahdood/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/blob/master/Certificate.png)
 
 
 # Assignments :
@@ -15,8 +15,8 @@ This repository contains all of the source code used in the course called HTML, 
 
 
 # Outputs :
-
-* [Module-2](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+https
+* [Module-2](https://mahdood.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/Assignments/module_2_solution/index.html)
+* [Module-3](https://mahdood.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/Assignments/module_3_solution/index.html)
+* [Module-4](https://mahdood.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/Assignments/module_4_solution/index.html)
+* [Module-5](https://mahdood.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-/Assignments/module_5_solution/index.html)
